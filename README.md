@@ -30,26 +30,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
 
-🔐 **[Sistema de Autenticação com Bcrypt](https://github.com/seuusuario/sistema-login)**  
-Um projeto que implementa um sistema de autenticação robusto utilizando Bcrypt para a segurança das senhas.
-
-🌍 **[Pantanal: Site Educacional sobre Fauna e Flora](https://github.com/seuusuario/pantanal-projeto)**  
-Um site com foco em informações sobre a biodiversidade do Pantanal, com um design limpo e interativo. 
-
-📱 **[App React Native – Meu Primeiro App](https://github.com/seuusuario/app-native)**  
-Estou criando um app utilizando React Native para testar minhas habilidades em mobile.
-
----
-
-## 🌟 Sobre os Projetos
-
-🔹 **Projeto A**: Descrição detalhada, o que foi aprendido e como aplico as melhores práticas de codificação.  
-🔹 **Projeto B**: Um projeto de grande escala, com integração com banco de dados, focando em escalabilidade e eficiência.  
-🔹 **Projeto C**: Uma pequena aplicação para praticar front-end, com foco em usabilidade e design responsivo.
-
----
 
 ## 📈 Estatísticas do GitHub
 
@@ -60,7 +41,6 @@ Estou criando um app utilizando React Native para testar minhas habilidades em m
 ## 🤝 Vamos Conectar!
 
 📫 **LinkedIn**: [seuperfil](https://linkedin.com/in/seuperfil)  
-🐦 **Twitter**: [@seuusuario](https://twitter.com/seuusuario)  
 💬 **Fale comigo no Discord**: `seuusuario#1234`
 
 ✨ “Codar é transformar ideias em realidade.”
@@ -68,10 +48,7 @@ Estou criando um app utilizando React Native para testar minhas habilidades em m
 ---
 
 ## 🏆 Conquistas
-
-- 💡 **Certificação em Front-End** - [Curso Online](https://linkdocurso)
-- 🏅 **Participante da OBR 2025** – Modalidade Prática  
-- 🏆 **Hackathons e Desafios** – Algumas vitórias em competições de programação!
+🏅 **Participante da OBR 2025** – Modalidade Prática  
 
 ---
 
